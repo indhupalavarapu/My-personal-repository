@@ -1,4 +1,4 @@
-# My-personal-repository
+# My repository
 # Hi, I'm Indhu 
 
 I am a Master’s student in Information Technology at Arizona State University.
